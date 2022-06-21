@@ -1,5 +1,5 @@
 
-# cookiecutter-dart
+# Flutter Template:
 
 - [x] boilerplate, dart/flutter project starter with `GetX`.
 - [x] dart/flutter 项目目录生成工具/脚手架.
