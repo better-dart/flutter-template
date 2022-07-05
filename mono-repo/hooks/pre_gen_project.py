@@ -2,7 +2,7 @@ import re
 import sys
 
 # regex:
-MODULE_REGEX = r'^[_a-zA-Z][_a-zA-Z0-9]+$'
+MODULE_REGEX = r'^[_a-zA-Z][_-a-zA-Z0-9]+$'
 
 
 def validate_name(regex):
