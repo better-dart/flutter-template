@@ -47,8 +47,9 @@ sudo apt-get install cookiecutter
 
 cd your-workspace/
 
-# 在当前目录下, 创建 go-zero mono repo 项目根目录
-cookiecutter https://github.com/better-dart/cookiecutter-dart.git --directory="app-repo"
+# 在当前目录下, 创建 mono repo 项目根目录
+cookiecutter https://github.com/better-dart/cookiecutter-dart.git --directory="mono-repo"
+
 
 ```
 
