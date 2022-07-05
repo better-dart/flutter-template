@@ -9,7 +9,7 @@ def validate_name(regex):
     # name list:
     names = [
         '{{cookiecutter.repo_name}}',
-        '{{cookiecutter.biz_app_name}}',
+        '{{cookiecutter.app_name}}',
     ]
 
     # validate:
